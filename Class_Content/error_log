@@ -1,0 +1,9 @@
+[02-Feb-2021 22:20:16 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'Admin'@'localhost' (using password: YES) in /home/lourizel/public_html/startconnection.ini on line 8
+[02-Feb-2021 22:24:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'website'@'localhost' (using password: YES) in /home/lourizel/public_html/startconnection.ini on line 8
+[02-Feb-2021 22:24:07 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'website'@'localhost' (using password: YES) in /home/lourizel/public_html/startconnection.ini on line 8
+[02-Feb-2021 22:24:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'website'@'localhost' (using password: YES) in /home/lourizel/public_html/startconnection.ini on line 8
+[02-Feb-2021 22:24:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'website'@'localhost' (using password: YES) in /home/lourizel/public_html/startconnection.ini on line 8
+[02-Feb-2021 22:49:29 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/lourizel/public_html/contact-form.php on line 73
+[03-Feb-2021 00:19:50 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/lourizel/public_html/contact-form.php on line 73
+[03-Feb-2021 00:22:46 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/lourizel/public_html/contact-form.php on line 73
+[03-Feb-2021 00:25:26 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/lourizel/public_html/contact-form.php on line 75

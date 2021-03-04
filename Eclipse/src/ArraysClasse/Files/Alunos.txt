@@ -1,0 +1,15 @@
+#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Número mecanográfico - 123657
+Nome do aluno - Francisco
+Notas dos 3 testes - 20, 20, 20 
+Nota final - 20.0
+#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Número mecanográfico - 103244
+Nome do aluno - Gonçalo
+Notas dos 3 testes - 18, 18, 20 
+Nota final - 19.0
+#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+Número mecanográfico - 114324
+Nome do aluno - Manuel
+Notas dos 3 testes - 15, 16, 17 
+Nota final - 16.25
